@@ -27,14 +27,7 @@
         "varsIgnorePattern": "^_"
       }
     ],
-    " exhaustive-deps": [
-      "warn",
-      {
-        "argsIgnorePattern": "^_",
-        "varsIgnorePattern": "^_"
-      }
-    ],
-    " react-in-jsx-scope": false
+    " react-in-jsx-scope": 0
   },
   "settings": {
     "react": {
