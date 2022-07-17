@@ -1,7 +1,7 @@
 # Testes com a useEffect
 
 Busca aplicar conceitos do useEffetc na pratica e em conjunto a melhorias no ciclo de render, otimização e performance.
-inicialmente eliado ao erro exaustive-deeps do ESlint
+inicialmente eliado ao erro exhaustive-deps do ESlint
 
 # 📝 Procedimentos de instalação
 
